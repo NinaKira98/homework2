@@ -1,0 +1,43 @@
+body {
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Math-Wallpaper.jpg");
+	background-size: cover;
+	background-position: center center;
+}
+h1 {
+	color: #FAFAD2;
+	font-family: 'Limelight', cursive;
+    font-size: 52px;
+    text-align: center;
+}
+h3 {
+	color: #FAFAD2;
+	font-family: 'Gloria+Hallelujah', cursive;
+	text-align: center;
+	font-size: 36px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right:  auto;
+	border: solid white 5px;
+
+}
+p {
+	color: black;
+	font-family: 'Suez One', serif;
+	text-align: center;
+
+}
+
+div {
+	background-color: #ffffe6;
+	height: 73px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a {
+	color: #99ccff;
+	font-size: 20px;
+}
+
